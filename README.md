@@ -68,12 +68,14 @@ Was part of a team building a new platform of feedback solutions and also mainta
 
 ## Employers
 
-|Castra|Full stack developer (consultant)|Oct 2021 - ongoing|
-|Entral|Full stack developer|May 2018 - Nov 2021|
-|Quicksearch|Full stack developer|May 2015 - May 2018|
-|Phoniro Access|Full stack developer|Oct 2013 - Apr 2015|
-|Advanced Electronic Systems|Full stack developer|Sep 2011 - Oct 2013|
-|InformaIT AB|Full stack developer|Jan 2004 - Sep 2007|
+| Company                         | Role                              | Period              |
+| ------------------------------- | --------------------------------- | ------------------- |
+| Castra Väst Systemutveckling AB | Full stack developer (consultant) | Oct 2021 - ongoing  |
+| Entral AB                       | Full stack developer              | May 2018 - Nov 2021 |
+| Quicksearch Sweden AB           | Full stack developer              | May 2015 - May 2018 |
+| Phoniro Access                  | Full stack developer              | Oct 2013 - Apr 2015 |
+| Advanced Electronic Systems     | Full stack developer              | Sep 2011 - Oct 2013 |
+| InformaIT AB                    | Full stack developer              | Jan 2004 - Sep 2007 |
 
 ## Skills
 
